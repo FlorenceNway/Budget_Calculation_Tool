@@ -1,6 +1,6 @@
 # Emergency Ration Budget App
 
-![demo gif](./example.gif)
+![demo gif](./demo.gif)
 
 ## UAT
 
