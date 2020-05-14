@@ -1,5 +1,5 @@
 # Emergency Ration Budget App
-github ink : https://florencenway.github.io/Budget_Calculation_Tool/
+Link : https://florencenway.github.io/Budget_Calculation_Tool/
 
 ![demo gif](./demo.gif)
 
@@ -13,7 +13,3 @@ github ink : https://florencenway.github.io/Budget_Calculation_Tool/
 4. If user tries to select products which they cannot afford, a message is displayed for 3 seconds and the select field doesn't retain the selected value
 
 
-
-## Insufficient funds message HTML
-
-Not enough money left for that!
